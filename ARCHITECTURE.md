@@ -6,7 +6,7 @@ Travel Assistant — это мультиагентная система помо
 - **RAG** (Retrieval Augmented Generation) для поиска правил политики
 - **Мультиагентов** (Поисковик, Аналитик, Бронировщик)
 - **Локальную LLM** (LM Studio) с возможностью переключения на OpenRouter
-- **Векторную БД** (Chroma InMemory)
+- **Векторную БД** (Chroma InMemory) ц
 
 ---
 
